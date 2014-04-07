@@ -28,6 +28,6 @@ Es esperado que un cambio en los aspectos arriba mencionados promuevan:
 * Mayor cantidad de emprendimientos (pymes) debido a la caida de los costos de
   entrada con respecto a la compra de hardware y software.
 
-* Menor dependencia tecnológica.
+* Menor dependencia tecnológica en agentes externos.
 
 * Mayor creatividad, proactividad y autonomía.
