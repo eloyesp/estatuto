@@ -1,18 +1,18 @@
 # Objetivos #
 
-Promover la autonomía de los usuarios en el uso de artefactos electrónicos,
-especialmente en lo referido al use del software informático.
+Promover la autonomía de los usuarios en la utilización de artefactos
+electrónicos, especialmente en lo referido al uso del software informático.
 
-Entendemos por autonomía la capacidad de los usuarios de utilizar de forma
-eficiente y eficaz un producto, debe tener la posibilidad de reparar los
-fallos, estudiar su funcionamiento interno, ajustarlo a sus necesidades
+Entendemos que el usuario no debe sólo tener la capacidad de utilizar de forma
+eficiente y eficaz el producto, debe también tener la posibilidad de reparar
+los fallos, estudiar su funcionamiento interno, ajustarlo a sus necesidades
 específicas e implementar mejoras y compartirlo con otros posibles usuarios.
 
-// Reorganizar de modo de dejar claros estas tres condiciones.
+Para que el uso sea autónomo, debe poder llevarse a cabo sin depender de un
+proveedor específico o del pago de costos adicionales para llevar a cabo las
+acciones anteriores.
 
-1. Uso autónomo: Uso, reparacion, personalización.
-2. Uso conciente: Comprension, ventajas y desventajas.
-3. ????: Compartir.
+<!-- 2. Uso conciente: Comprension, ventajas y desventajas. -->
 
 ## Objetivos Especificos. ##
 
