@@ -12,6 +12,10 @@ Para que el uso sea autónomo, debe poder llevarse a cabo sin depender de un
 proveedor específico o del pago de costos adicionales para llevar a cabo las
 acciones anteriores.
 
+Por último, entendemos que tanto el software como el diseño de los dispositivos
+electrónicos son el ... de un conocimiento que es de la humanidad toda y debe
+ser libre para ser utilizada por todos.
+
 <!-- 2. Uso conciente: Comprension, ventajas y desventajas. -->
 
 ## Objetivos Especificos. ##
