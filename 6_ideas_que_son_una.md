@@ -3,8 +3,7 @@ Una fundación con el objetivo de ...
 ## Objevos verticales/transversales.
 
 1. Promover la autonomía de los usuarios en el uso del software.
-
-   a. Desarrollar y difundir software claro (libre, simple y modular).
+a. Desarrollar y difundir software claro (libre, simple y modular).
 
 ## Objetivos horizontales/puntuales.
 
@@ -12,4 +11,4 @@ Una fundación con el objetivo de ...
 
 #. Promover el uso de software claro en las empresas y en el gobierno.
 
-#. Abastecer la demanda: Desarrollar software claro para la demanda local.
+#. Desarrollar software claro para la demanda local.
